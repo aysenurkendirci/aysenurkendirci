@@ -3,7 +3,7 @@
 - 🎓 Third-year **Software Engineering** student at **Doğuş University**
 - 📱 Focused on **mobile apps** — building practical, user-centered features
 - 🧪 I try new technologies and turn them into projects that meet **real-life needs**
-- 🌱 Continuously improving through coursework, side projects, and hands-on practice
+- 🌱 Continuously improving through bootcamp, side projects, and hands-on practice
 - 📫 Reach me: **📧** [Email](mailto:aysenurkendirciiss@gmail.com) • **💼** [LinkedIn](https://www.linkedin.com/in/ay%C5%9Fe-nur-kendirci-7b5294285/)
 
 ---
