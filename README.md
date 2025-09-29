@@ -1,24 +1,21 @@
-<h1 align="left">Hi, I'm Ayşe Nur 👋</h1>
+# 👋 Hi, I’m Ayşe Nur!
 
-<p align="left">
-Third-year <b>Software Engineering</b> student at Doğuş University — focused on building practical, user-centered mobile apps.
-</p>
-
-<p align="left">
-  <a href="mailto:aysenurkendirciiss@gmail.com">📧 Email</a> ·
-  <a href="https://www.linkedin.com/in/ay%C5%9Fe-nur-kendirci-7b5294285/">💼 LinkedIn</a>
-</p>
+- 🎓 Third-year **Software Engineering** student at **Doğuş University**
+- 📱 Focused on **mobile apps** — building practical, user-centered features
+- 🧪 I try new technologies and turn them into projects that meet **real-life needs**
+- 🌱 Continuously improving through coursework, side projects, and hands-on practice
+- 📫 Reach me: **📧** [Email](mailto:aysenurkendirciiss@gmail.com) • **💼** [LinkedIn](https://www.linkedin.com/in/ay%C5%9Fe-nur-kendirci-7b5294285/)
 
 ---
 
-## About
-- Third-year Software Engineering student; focused on **mobile apps**  
-- Curious about new technologies and applying them to **real-life** needs  
-- Goal: grow into a versatile engineer who ships maintainable, useful products
+## 🎯 Currently focused on
+- Strengthening mobile development on **iOS** and **Android**
+- Adapting modern tools to **real-world requirements**
+- Shipping small, maintainable features and iterating fast
 
 ---
 
-## Tech
+## 💻 Tech Stack
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white">
   <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white">
@@ -27,16 +24,20 @@ Third-year <b>Software Engineering</b> student at Doğuş University — focused
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black">
   <img alt="SwiftData" src="https://img.shields.io/badge/SwiftData-20232A?logo=swift&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white">
+  <img alt="Moya" src="https://img.shields.io/badge/Moya-EE295B">
+  <img alt="Alamofire" src="https://img.shields.io/badge/Alamofire-DD2C00">
+  <img alt="SnapKit" src="https://img.shields.io/badge/SnapKit-1E90FF">
+  <img alt="Lottie" src="https://img.shields.io/badge/Lottie-1E90FF">
 </p>
 
 ---
 
-## Most Used Languages
+## 📊 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurkendirci&layout=compact" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysenurkendirci&layout=compact" height="140" />
 </p>
 
-## Stats
+## 📈 Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurkendirci&show_icons=true" height="130" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aysenurkendirci&show_icons=true" height="140" />
 </p>
