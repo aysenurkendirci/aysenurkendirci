@@ -51,11 +51,7 @@ I enjoy learning by building, improving step by step, and turning technical know
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
@@ -67,25 +63,17 @@ I enjoy learning by building, improving step by step, and turning technical know
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-    </td>
-    <td width="50%" valign="top">
-
 ### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=flat"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
 </p>
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📱 Mobile
+### 📱 Mobile Development
 
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
@@ -96,9 +84,6 @@ I enjoy learning by building, improving step by step, and turning technical know
   <img src="https://img.shields.io/badge/CoreLocation-000000?style=flat&logo=apple&logoColor=white"/>
 </p>
 
-    </td>
-    <td width="50%" valign="top">
-
 ### 🌐 Frontend
 
 <p>
@@ -108,13 +93,9 @@ I enjoy learning by building, improving step by step, and turning technical know
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
 </p>
 
-    </td>
-  </tr>
-</table>
-
 ### 🔧 Tools & Libraries
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
@@ -151,8 +132,7 @@ I enjoy learning by building, improving step by step, and turning technical know
 
 ## 🌱 Mindset
 
-> I believe in learning by building.  
-> Every project is an opportunity to understand software better, improve my problem-solving skills, and write cleaner, more maintainable code.
+> I believe in learning by building. Every project is an opportunity to understand software better, improve my problem-solving skills, and write cleaner, more maintainable code.
 
 ---
 
