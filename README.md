@@ -1,3 +1,5 @@
+<!-- GitHub Profile README -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ay%C5%9Fe%20Nur%20Kendirci&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Backend%20Development%20%7C%20iOS%20Experience&descAlignY=58&descSize=15" />
 </p>
@@ -15,7 +17,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineering+Student;Backend+Development+with+.NET+Core%2C+Laravel+and+SQL;iOS+Development+with+Swift+and+UIKit;Building+Real-World+Software+Projects" />
+  <b>Backend-focused Software Engineering student with hands-on iOS development experience.</b>
+  <br/>
+  <span>Building practical, maintainable, and real-world software solutions.</span>
 </p>
 
 ---
@@ -47,22 +51,78 @@ I enjoy learning by building, improving step by step, and turning technical know
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img height="30" src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,angular,html,css,js,swift,firebase,git,github,postman,figma" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-<p align="center">
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/RESTful%20APIs-02569B?style=flat"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🗄️ Databases
+
+<p>
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=flat"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+</p>
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📱 Mobile
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIKit-000000?style=flat&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=flat&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftData-FA7343?style=flat&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MapKit-000000?style=flat&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CoreLocation-000000?style=flat&logo=apple&logoColor=white"/>
+</p>
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
+
+    </td>
+  </tr>
+</table>
+
+### 🔧 Tools & Libraries
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/>
   <img src="https://img.shields.io/badge/Moya-EE295B?style=flat"/>
   <img src="https://img.shields.io/badge/Alamofire-DD2C00?style=flat"/>
+  <img src="https://img.shields.io/badge/SnapKit-1E90FF?style=flat"/>
+  <img src="https://img.shields.io/badge/Lottie-00DDB3?style=flat"/>
   <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white"/>
 </p>
 
@@ -89,22 +149,10 @@ I enjoy learning by building, improving step by step, and turning technical know
 
 ---
 
-## 🧠 Development Mindset
-
-```txt
-Learn the fundamentals.
-Build real projects.
-Understand the architecture.
-Improve step by step.
-Write clean and maintainable code.
-```
-
----
-
-## 🌱 What I Believe
+## 🌱 Mindset
 
 > I believe in learning by building.  
-> Every project is an opportunity to understand software better, improve my problem-solving skills, and become a stronger developer.
+> Every project is an opportunity to understand software better, improve my problem-solving skills, and write cleaner, more maintainable code.
 
 ---
 
